@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
