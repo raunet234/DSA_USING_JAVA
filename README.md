@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
