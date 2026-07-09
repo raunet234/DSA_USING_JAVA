@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
