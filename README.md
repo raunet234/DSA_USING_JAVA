@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
