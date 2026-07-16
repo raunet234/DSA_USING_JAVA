@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
