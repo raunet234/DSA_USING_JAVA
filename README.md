@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
