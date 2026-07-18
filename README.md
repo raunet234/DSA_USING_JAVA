@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0050-powx-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -174,4 +178,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
