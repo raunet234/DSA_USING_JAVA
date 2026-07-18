@@ -1,17 +1,18 @@
 class Solution {
-    public int numIslands(char[][] grid) {
+
+    public int numIslands(char[][] grid) {// methode
         int count = 0;
         for(int i= 0; i<grid.length; i++){
             for(int j= 0; j<grid[0].length;j++){
                 if(grid[i][j]== '1'){
                     count++;
-                    dfs(grid, i , j);
+                    dfs(grid, i , j);//this is dfs function calling dfs function below
                 }
             }
         }
-        return count;
+        return count;//finally return the no. of island
     }
-    public void dfs(char[][] grid, int row,int col){
+    public void dfs(char[][] grid, int row,int col){ //this is dfs function who Explore the entire island starting from this cell.
         //out of bound
         if(row<0 || row>= grid.length || col<0 || col>=grid[0].length)
         return;
