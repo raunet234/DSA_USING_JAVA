@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0050-powx-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -170,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
