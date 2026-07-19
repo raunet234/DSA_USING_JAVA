@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
