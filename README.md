@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -207,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Graph Theory
 |  |
