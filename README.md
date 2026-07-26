@@ -281,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0187-repeated-dna-sequences) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
