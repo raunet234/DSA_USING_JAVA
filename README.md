@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
+| [0093-restore-ip-addresses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
+| [0093-restore-ip-addresses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0093-restore-ip-addresses) |
 ## Matrix
 |  |
 | ------- |
