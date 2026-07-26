@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Prefix Sum
