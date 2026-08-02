@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -314,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
