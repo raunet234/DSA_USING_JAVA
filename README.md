@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
+| [1340-jump-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1340-jump-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1140-stone-game-ii) |
+| [1340-jump-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
