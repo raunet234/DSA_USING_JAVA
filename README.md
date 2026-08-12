@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3093-longest-common-suffix-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3093-longest-common-suffix-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0187-repeated-dna-sequences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
