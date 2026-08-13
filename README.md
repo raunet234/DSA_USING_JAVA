@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0187-repeated-dna-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3093-longest-common-suffix-queries) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3093-longest-common-suffix-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
