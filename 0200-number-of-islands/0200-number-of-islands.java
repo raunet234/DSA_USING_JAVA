@@ -1,32 +1,65 @@
 class Solution {
 
-    public int numIslands(char[][] grid) {// methode
+    public int numIslands(char[][] grid) {
+
+        // This will count how many islands we find
         int count = 0;
-        for(int i= 0; i<grid.length; i++){
-            for(int j= 0; j<grid[0].length;j++){
-                if(grid[i][j]== '1'){
+
+        // Go through every row
+        for (int i = 0; i < grid.length; i++) {
+
+            // Go through every column
+            for (int j = 0; j < grid[0].length; j++) {
+
+                // If we find land
+                if (grid[i][j] == '1') {
+
+                    // We found a new island
                     count++;
-                    dfs(grid, i , j);//this is dfs function calling dfs function below
+
+                    // Explore the whole island
+                    dfs(grid, i, j);
                 }
             }
         }
-        return count;//finally return the no. of island
-    }
-    public void dfs(char[][] grid, int row,int col){ //this is dfs function who Explore the entire island starting from this cell.
-        //out of bound
-        if(row<0 || row>= grid.length || col<0 || col>=grid[0].length)
-        return;
-        //water or already visited
-        if(grid[row][col] == '0')
-        return;
 
-        //mark as visited
+        // Return the total number of islands
+        return count;
+    }
+
+
+    // This function explores the entire island
+    // starting from the current cell
+    public void dfs(char[][] grid, int row, int col) {
+
+        // If we go outside the grid, stop
+        if (row < 0 || row >= grid.length ||
+            col < 0 || col >= grid[0].length)
+            return;
+
+
+        // If this cell is water ('0')
+        // OR we already visited it,
+        // stop exploring this direction
+        if (grid[row][col] == '0')
+            return;
+
+
+        // Mark this land as visited
+        // Change '1' to '0'
         grid[row][col] = '0';
 
-        //visit all 4 directions
-        dfs(grid, row-1,col);
-        dfs(grid, row+1, col);
-        dfs(grid, row, col-1);
-        dfs(grid, row, col+1);
+
+        // Now explore the cell above
+        dfs(grid, row - 1, col);
+
+        // Explore the cell below
+        dfs(grid, row + 1, col);
+
+        // Explore the cell on the left
+        dfs(grid, row, col - 1);
+
+        // Explore the cell on the right
+        dfs(grid, row, col + 1);
     }
 }
