@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
