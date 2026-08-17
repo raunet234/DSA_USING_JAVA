@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0038-count-and-say) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0041-first-missing-positive) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0089-gray-code) |
 | [0233-number-of-digit-one](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0233-number-of-digit-one) |
