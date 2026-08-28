@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0041-first-missing-positive) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0133-clone-graph) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0200-number-of-islands) |
