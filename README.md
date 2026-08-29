@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
