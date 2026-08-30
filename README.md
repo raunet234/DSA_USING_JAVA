@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
