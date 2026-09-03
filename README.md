@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
