@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -411,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0133-clone-graph) |
 | [3310-remove-methods-from-project](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3310-remove-methods-from-project) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -435,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Rolling Hash
