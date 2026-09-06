@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0424-longest-repeating-character-replacement) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0115-distinct-subsequences) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
