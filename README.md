@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1927-sum-game) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1406-stone-game-iii) |
