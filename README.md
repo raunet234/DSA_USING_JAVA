@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1563-stone-game-v) |
+| [1840-maximum-building-height](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2029-stone-game-ix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1840-maximum-building-height](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1840-maximum-building-height) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1563-stone-game-v) |
+| [1840-maximum-building-height](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
