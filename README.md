@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
