@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1096-brace-expansion-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -602,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
