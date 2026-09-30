@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
