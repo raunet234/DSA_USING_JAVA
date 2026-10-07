@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0187-repeated-dna-sequences) |
+| [0301-remove-invalid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0856-score-of-parentheses) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1096-brace-expansion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
