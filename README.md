@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0093-restore-ip-addresses) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0089-gray-code) |
 | [0233-number-of-digit-one](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0233-number-of-digit-one) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3498-reverse-degree-of-a-string) |
