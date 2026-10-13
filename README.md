@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3498-reverse-degree-of-a-string) |
