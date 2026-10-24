@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0115-distinct-subsequences) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0115-distinct-subsequences) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
