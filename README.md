@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0643-maximum-average-subarray-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1096-brace-expansion-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0089-gray-code) |
 | [0233-number-of-digit-one](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0233-number-of-digit-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0836-rectangle-overlap) |
