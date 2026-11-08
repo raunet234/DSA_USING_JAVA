@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1340-jump-game-v) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -577,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/raunet234/DSA_USING_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/raunet234/DSA_USING_JAVA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/raunet234/DSA_USING_JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
